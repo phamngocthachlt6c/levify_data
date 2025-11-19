@@ -1,0 +1,18 @@
+{
+  "skill_code": "ENLB",
+  "skill_name": "English Listening Basics",
+  "lessons": [
+    { "id": 1, "name": "Alphabet", "lesson_list": "alphabet.json", "progress": 0, "unlocked": true, "completed": false, "total_stages": 6 },
+    { "id": 2, "name": "Animals", "lesson_list": "alphabet.json", "progress": 0,  "unlocked": false, "completed": false, "total_stages": 6 },
+    { "id": 3, "name": "Colors & Shapes", "lesson_list": "alphabet.json", "progress": 0,  "unlocked": false, "completed": false , "total_stages": 6},
+    { "id": 4, "name": "Fruits & Food", "lesson_list": "alphabet.json", "progress": 0,  "unlocked": false, "completed": false, "total_stages": 6 },
+    { "id": 5, "name": "Clothes", "lesson_list": "alphabet.json", "progress": 0,  "unlocked": false, "completed": false, "total_stages": 6 },
+    { "id": 6, "name": "Family & People", "lesson_list": "alphabet.json", "progress": 0,  "unlocked": false, "completed": false, "total_stages": 6 },
+    { "id": 7, "name": "Time & Daily Routine", "lesson_list": "alphabet.json", "progress": 0,  "unlocked": false, "completed": false, "total_stages": 6 },
+    { "id": 8, "name": "School & Study", "lesson_list": "alphabet.json", "progress": 0,  "unlocked": false, "completed": false, "total_stages": 6 },
+    { "id": 9, "name": "Weather & Nature", "lesson_list": "alphabet.json", "progress": 0,  "unlocked": false, "completed": false, "total_stages": 6 },
+    { "id": 10, "name": "Places & Transport", "lesson_list": "alphabet.json", "progress": 0,  "unlocked": false, "completed": false, "total_stages": 6 },
+    { "id": 11, "name": "Actions & Verbs", "lesson_list": "alphabet.json", "progress": 0,  "unlocked": false, "completed": false, "total_stages": 6 },
+    { "id": 12, "name": "Common Objects", "lesson_list": "alphabet.json", "progress": 0,  "unlocked": false, "completed": false, "total_stages": 6 }
+  ]
+}

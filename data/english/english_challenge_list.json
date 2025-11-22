@@ -3,7 +3,7 @@
   "skill_name": "English Listening Basics",
   "lessons": [
     { "id": 1, "name": "Alphabet", "lesson_list": "https://raw.githubusercontent.com/phamngocthachlt6c/levify_data/refs/heads/main/data/english/sublessons/alphabet.json", "progress": 0, "unlocked": true, "completed": false, "total_stages": 6 },
-    { "id": 2, "name": "Animals", "lesson_list": "alphabet.json", "progress": 0,  "unlocked": false, "completed": false, "total_stages": 6 },
+    { "id": 2, "name": "Animals", "lesson_list": "https://raw.githubusercontent.com/phamngocthachlt6c/levify_data/refs/heads/main/data/english/sublessons/animals.json", "progress": 0,  "unlocked": false, "completed": false, "total_stages": 13 },
     { "id": 3, "name": "Colors & Shapes", "lesson_list": "alphabet.json", "progress": 0,  "unlocked": false, "completed": false , "total_stages": 6},
     { "id": 4, "name": "Fruits & Food", "lesson_list": "alphabet.json", "progress": 0,  "unlocked": false, "completed": false, "total_stages": 6 },
     { "id": 5, "name": "Clothes", "lesson_list": "alphabet.json", "progress": 0,  "unlocked": false, "completed": false, "total_stages": 6 },

@@ -50,22 +50,22 @@
             "answer": "The bird flies"
         },
         {
-            "start": 21.5,
-            "end": 22.0,
+            "start": 31.5,
+            "end": 32.0,
             "text": "What did she say?",
             "options": ["The horse sleeps", "The goat runs", "The goat sleeps"],
             "answer": "The goat sleeps"
         },
         {
-            "start": 25.5,
-            "end": 26.0,
+            "start": 35.5,
+            "end": 36.0,
             "text": "What did she say?",
             "options": ["The cat runs", "The cat jumps", "The dog runs"],
             "answer": "The cat runs"
         },
         {
-            "start": 29.5,
-            "end": 30.0,
+            "start": 39.5,
+            "end": 40.0,
             "text": "What did she say?",
             "options": ["The dog sleeps", "The goat sleeps", "The dog flies"],
             "answer": "The dog sleeps"

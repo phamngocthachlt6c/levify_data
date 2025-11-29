@@ -1,0 +1,74 @@
+{
+    "questions": [
+        {
+            "start": 3.5,
+            "end": 4.0,
+            "text": "What did she say?",
+            "options": ["The duck runs", "The cat runs", "The dog runs"],
+            "answer": "The duck runs"
+        },
+        {
+            "start": 6.5,
+            "end": 8.0,
+            "text": "What did she say?",
+            "options": ["The goat eats", "The pig jumps", "The pig eats"],
+            "answer": "The pig eats"
+        },
+        {
+            "start": 11.5,
+            "end": 12.0,
+            "text": "What did she say?",
+            "options": ["The goat runs", "The frog runs", "The horse runs"],
+            "answer": "The horse runs"
+        },
+        {
+            "start": 15.5,
+            "end": 16.0,
+            "text": "What did she say?",
+            "options": ["The cow eats", "The goat eats", "The cow fly"],
+            "answer": "The cow eats"
+        },
+        {
+            "start": 19.5,
+            "end": 20.0,
+            "text": "What did she say?",
+            "options": ["The horse jumps", "The frog jumps", "The dog jumps"],
+            "answer": "The frog jumps"
+        },
+        {
+            "start": 23.5,
+            "end": 24.0,
+            "text": "What did she say?",
+            "options": ["The goat eats", "The frog eats", "The horse eats"],
+            "answer": "The frog eats"
+        },
+        {
+            "start": 27.5,
+            "end": 28.0,
+            "text": "What did she say?",
+            "options": ["The goat runs", "The bird jumps", "The bird flies"],
+            "answer": "The bird flies"
+        },
+        {
+            "start": 31.5,
+            "end": 32.0,
+            "text": "What did she say?",
+            "options": ["The horse sleeps", "The goat runs", "The goat sleeps"],
+            "answer": "The goat sleeps"
+        },
+        {
+            "start": 35.5,
+            "end": 36.0,
+            "text": "What did she say?",
+            "options": ["The cat runs", "The cat jumps", "The dog runs"],
+            "answer": "The cat runs"
+        },
+        {
+            "start": 39.5,
+            "end": 40.0,
+            "text": "What did she say?",
+            "options": ["The dog sleeps", "The goat sleeps", "The dog flies"],
+            "answer": "The dog sleeps"
+        }
+    ]
+}

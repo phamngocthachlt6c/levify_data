@@ -1,0 +1,67 @@
+{
+    "questions": [
+        {
+            "start": 3.5,
+            "end": 4.0,
+            "text": "What did she say?",
+            "options": ["The red frog jumps", "The red frog eats", "The black horse runs", "The red horse jumps"],
+            "answer": "The red frog jumps"
+        },
+        {
+            "start": 6.5,
+            "end": 8.0,
+            "text": "What did she say?",
+            "options": ["The white cat jumps", "The brown cat jumps", "The white cat sleeps", "The brown dog jumps"],
+            "answer": "The brown cat jumps"
+        },
+        {
+            "start": 11.5,
+            "end": 12.0,
+            "text": "What did she say?",
+            "options": ["The white frog eats", "The white dog eats", "The white horse eats", "The brown dog eats"],
+            "answer": "The white dog eats"
+        },
+        {
+            "start": 15.5,
+            "end": 16.0,
+            "text": "What did she say?",
+            "options": ["The black pig eats", "The black goat eats", "The brown pig eats", "The white pig eats"],
+            "answer": "The black pig eats"
+        },
+        {
+            "start": 19.5,
+            "end": 20.0,
+            "text": "What did she say?",
+            "options": ["The white duck jumps", "The brown duck flies", "The white dog flies", "The white duck flies"],
+            "answer": "The white duck flies"
+        },
+        {
+            "start": 23.5,
+            "end": 24.0,
+            "text": "What did she say?",
+            "options": ["The black frog jumps", "The brown horse runs", "The black horse runs", "The black goat runs"],
+            "answer": "The black horse runs"
+        },
+        {
+            "start": 27.5,
+            "end": 28.0,
+            "text": "What did she say?",
+            "options": ["The white cat sleeps", "The brown cat sleeps", "The black cat sleeps", "The white dog sleeps"],
+            "answer": "The white cat sleeps"
+        },
+        {
+            "start": 31.5,
+            "end": 32.0,
+            "text": "What did she say?",
+            "options": ["The black bird flies", "The black goat runs", "The brown bird flies", "The black bird jumps"],
+            "answer": "The black bird flies"
+        },
+        {
+            "start": 35.5,
+            "end": 36.0,
+            "text": "What did she say?",
+            "options": ["The brown pig runs", "The white dog runs", "The brown duck runs", "The brown dog runs"],
+            "answer": "The brown dog runs"
+        }
+    ]
+}

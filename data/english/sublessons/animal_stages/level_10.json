@@ -1,0 +1,60 @@
+{
+    "questions": [
+        {
+            "start": 3.0,
+            "end": 4.0,
+            "text": "What did she say?",
+            "options": ["The dog is under the table", "The cat is under the table", "The duck is under the table", "The cat is under the table"],
+            "answer": "The dog is under the table"
+        },
+        {
+            "start": 7.0,
+            "end": 8.0,
+            "text": "What did she say?",
+            "options": ["The dog is near the cat", "The pig is near the cat", "The pig is on the cat", "The cat is near the pig"],
+            "answer": "The pig is near the cat"
+        },
+        {
+            "start": 11.0,
+            "end": 12.0,
+            "text": "What did she say?",
+            "options": ["The cat is under the bed", "The pig is on the bed", "The cat is in the bed", "The cat is on the bed"],
+            "answer": "The cat is on the bed"
+        },
+        {
+            "start": 15.0,
+            "end": 16.0,
+            "text": "What did she say?",
+            "options": ["The goat is in the tree", "The bird is in the tree", "The bird is on the tree", "The pig is in the tree"],
+            "answer": "The bird is in the tree"
+        },
+        {
+            "start": 19.0,
+            "end": 20.0,
+            "text": "What did she say?",
+            "options": ["The horse is on the grass", "The goat is in the grass", "The dog is on the grass", "The goat is on the grass"],
+            "answer": "The goat is on the grass"
+        },
+        {
+            "start": 23.0,
+            "end": 24.0,
+            "text": "What did she say?",
+            "options": ["The frog is in water", "The fish is in water", "The cat is in water", "The frog is under water"],
+            "answer": "The frog is in water"
+        },
+        {
+            "start": 27.0,
+            "end": 28.0,
+            "text": "What did she say?",
+            "options": ["The horse is under the man", "The horse is on the man", "The horse is under the woman", "The horse is near the man"],
+            "answer": "The horse is under the man"
+        },
+        {
+            "start": 31.0,
+            "end": 32.0,
+            "text": "What did she say?",
+            "options": ["The cat is on the dog", "The cat is near the goat", "The cat is near the dog", "The cat is in the dog"],
+            "answer": "The cat is near the dog"
+        }
+    ]
+}

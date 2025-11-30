@@ -32,8 +32,8 @@
             "start": 19.0,
             "end": 20.0,
             "text": "What did she say?",
-            "options": ["The flag is the star", "The flag is a stars", "The flag is stars", "The flag is a star"],
-            "answer": "The flag is a star"
+            "options": ["The flag is the star", "The flag has a stars", "The flag is stars", "The flag has a star"],
+            "answer": "The flag has a star"
         },
         {
             "start": 23.0,

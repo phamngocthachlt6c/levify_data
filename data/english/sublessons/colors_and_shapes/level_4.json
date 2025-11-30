@@ -1,0 +1,67 @@
+{
+    "questions": [
+        {
+            "start": 3.0,
+            "end": 4.0,
+            "text": "What did she say?",
+            "options": ["The bird is pink", "The goat is pink", "The bird is black", "The horse is pink"],
+            "answer": "The bird is pink"
+        },
+        {
+            "start": 7.0,
+            "end": 8.0,
+            "text": "What did she say?",
+            "options": ["The apple is gray", "The cloud is blue", "The cloud is gray", "The frog is gray"],
+            "answer": "The cloud is gray"
+        },
+        {
+            "start": 11.0,
+            "end": 12.0,
+            "text": "What did she say?",
+            "options": ["The fruit is blue", "The orange is orange", "The apple is orange", "The fruit is orange"],
+            "answer": "The fruit is orange"
+        },
+        {
+            "start": 15.0,
+            "end": 16.0,
+            "text": "What did she say?",
+            "options": ["The bag is red", "The bag is brown", "The park is brown", "The bag are brown"],
+            "answer": "The bag is brown"
+        },
+        {
+            "start": 19.0,
+            "end": 20.0,
+            "text": "What did she say?",
+            "options": ["The wools is gray", "The horse is gray", "The wool is gray", "The wool are gray"],
+            "answer": "The wool is gray"
+        },
+        {
+            "start": 23.0,
+            "end": 24.0,
+            "text": "What did she say?",
+            "options": ["The dog is brown", "The duck is brown", "The dog is black", "The dog is white"],
+            "answer": "The dog is brown"
+        },
+        {
+            "start": 27.0,
+            "end": 28.0,
+            "text": "What did she say?",
+            "options": ["The shoe is brown", "The shoes is white", "The shoes are white", "The shoe is white"],
+            "answer": "The shoe is white"
+        },
+        {
+            "start": 31.0,
+            "end": 32.0,
+            "text": "What did she say?",
+            "options": ["The hat is orange", "The ball is orange", "The wall is orange", "The car is orange"],
+            "answer": "The ball is orange"
+        },
+        {
+            "start": 35.0,
+            "end": 36.0,
+            "text": "What did she say?",
+            "options": ["The cups is white", "The cup is white", "The cup are white", "The cups are white"],
+            "answer": "The cup is white"
+        }
+    ]
+}

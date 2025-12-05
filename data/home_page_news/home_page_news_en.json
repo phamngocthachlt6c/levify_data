@@ -18,12 +18,12 @@
       "id": "news_002",
       "title": "Training your English",
       "description": "Let's training your listening English skill",
-      "image_url": "https://example.com/images/cleanveg.jpg",
+      "image_url": "https://learnenglishteens.britishcouncil.org/sites/teens/files/styles/section_block_landing_list/public/field/section/image/RS9242_GettyImages-1155064210-hig.jpg?itok=Q4MT0YWJ",
       "published_at": "2025-02-09T14:00:00Z",
       "action": {
         "type": "open_tab",
         "label": "Đọc thêm",
-        "value": "2"
+        "value": "1"
       }
     }
   ]

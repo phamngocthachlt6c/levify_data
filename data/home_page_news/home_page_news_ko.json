@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "news": [
+    {
+      "id": "news_001",
+      "title": "게임 월드가 이제 열렸습니다",
+      "description": "훈련을 더 재미있게 하기 위해 게임을 플레이해 보세요!",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFuRUN7gX3Tj-JbmCHbEeu4SVlGs49-DW4gQ&s",
+      "published_at": "2025-02-10T08:30:00Z",
+      "action": {
+        "type": "open_game",
+        "label": "자세히 보기",
+        "value": "https://example.com/article/foodsafety"
+      }
+    },
+    {
+      "id": "news_002",
+      "title": "영어를 연습해보세요",
+      "description": "영어 듣기 실력을 함께 향상시켜 봅시다",
+      "image_url": "https://learnenglishteens.britishcouncil.org/sites/teens/files/styles/section_block_landing_list/public/field/section/image/RS9242_GettyImages-1155064210-hig.jpg?itok=Q4MT0YWJ",
+      "published_at": "2025-02-09T14:00:00Z",
+      "action": {
+        "type": "open_tab",
+        "label": "자세히 보기",
+        "value": "1"
+      }
+    }
+  ]
+}

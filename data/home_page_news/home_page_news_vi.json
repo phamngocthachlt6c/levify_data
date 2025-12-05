@@ -3,36 +3,27 @@
   "news": [
     {
       "id": "news_001",
-      "title": "Cảnh báo thực phẩm bẩn tuần này",
-      "description": "Các cơ quan chức năng vừa phát hiện một cơ sở cung cấp thịt heo không rõ nguồn gốc tại TP.HCM. Người dân cần đặc biệt chú ý khi mua hàng ở chợ truyền thống.",
-      "image_url": "https://example.com/images/foodsafety1.jpg",
+      "title": "Thê giới game đã mỡ",
+      "description": "Hãy tham gia trò chơi để làm việc rèn luyện trở nên thú vị hơn!",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFuRUN7gX3Tj-JbmCHbEeu4SVlGs49-DW4gQ&s",
       "published_at": "2025-02-10T08:30:00Z",
       "action": {
-        "type": "url",
+        "type": "open_game",
         "label": "Đọc thêm",
         "value": "https://example.com/article/foodsafety"
       }
     },
-
+    
     {
       "id": "news_002",
-      "title": "Bí quyết nhận biết rau sạch trong 3 giây",
-      "description": "Những mẹo cực đơn giản giúp bạn phân biệt rau sạch và rau chứa hóa chất chỉ bằng mắt thường.",
-      "image_url": "https://example.com/images/cleanveg.jpg",
+      "title": "Luyện tập tiếng Anh của bạn",
+      "description": "Hãy thử tham gia vào khoá rèn luyện nghe tiếng anh nhé",
+      "image_url": "https://learnenglishteens.britishcouncil.org/sites/teens/files/styles/section_block_landing_list/public/field/section/image/RS9242_GettyImages-1155064210-hig.jpg?itok=Q4MT0YWJ",
       "published_at": "2025-02-09T14:00:00Z",
-      "action": null
-    },
-
-    {
-      "id": "news_003",
-      "title": "Ứng dụng cập nhật tính năng mới",
-      "description": "Phiên bản mới giúp bạn theo dõi thông tin thực phẩm nhanh hơn, giao diện đẹp hơn và tiết kiệm pin.",
-      "image_url": "https://example.com/images/update.jpg",
-      "published_at": "2025-02-07T09:20:00Z",
       "action": {
-        "type": "internal",
-        "label": "Xem chi tiết",
-        "value": "update_screen"
+        "type": "open_tab",
+        "label": "Đọc thêm",
+        "value": "1"
       }
     }
   ]

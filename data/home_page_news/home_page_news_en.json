@@ -13,26 +13,17 @@
         "value": "https://example.com/article/foodsafety"
       }
     },
-
+    
     {
       "id": "news_002",
-      "title": "Bí quyết nhận biết rau sạch trong 3 giây",
-      "description": "Những mẹo cực đơn giản giúp bạn phân biệt rau sạch và rau chứa hóa chất chỉ bằng mắt thường.",
+      "title": "Training your English",
+      "description": "Let's training your listening English skill",
       "image_url": "https://example.com/images/cleanveg.jpg",
       "published_at": "2025-02-09T14:00:00Z",
-      "action": null
-    },
-
-    {
-      "id": "news_003",
-      "title": "Ứng dụng cập nhật tính năng mới",
-      "description": "Phiên bản mới giúp bạn theo dõi thông tin thực phẩm nhanh hơn, giao diện đẹp hơn và tiết kiệm pin.",
-      "image_url": "https://example.com/images/update.jpg",
-      "published_at": "2025-02-07T09:20:00Z",
       "action": {
-        "type": "internal",
-        "label": "Xem chi tiết",
-        "value": "update_screen"
+        "type": "open_tab",
+        "label": "Đọc thêm",
+        "value": "2"
       }
     }
   ]

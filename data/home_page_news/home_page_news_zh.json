@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "news": [
+    {
+      "id": "news_001",
+      "title": "游戏世界现已开放",
+      "description": "让我们一起玩游戏，让你的训练更有趣！",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFuRUN7gX3Tj-JbmCHbEeu4SVlGs49-DW4gQ&s",
+      "published_at": "2025-02-10T08:30:00Z",
+      "action": {
+        "type": "open_game",
+        "label": "阅读更多",
+        "value": "https://example.com/article/foodsafety"
+      }
+    },
+    {
+      "id": "news_002",
+      "title": "开始训练你的英语",
+      "description": "让我们一起提升你的英语听力技巧",
+      "image_url": "https://learnenglishteens.britishcouncil.org/sites/teens/files/styles/section_block_landing_list/public/field/section/image/RS9242_GettyImages-1155064210-hig.jpg?itok=Q4MT0YWJ",
+      "published_at": "2025-02-09T14:00:00Z",
+      "action": {
+        "type": "open_tab",
+        "label": "阅读更多",
+        "value": "1"
+      }
+    }
+  ]
+}

@@ -3,12 +3,12 @@
   "news": [
     {
       "id": "news_001",
-      "title": "WARNING SDFSDFy",
-      "description": "Các cơ quan chức năng vừa phát hiện một cơ sở cung cấp thịt heo không rõ nguồn gốc tại TP.HCM. Người dân cần đặc biệt chú ý khi mua hàng ở chợ truyền thống.",
-      "image_url": "https://example.com/images/foodsafety1.jpg",
+      "title": "Game world is now open",
+      "description": "Let's play the game for make your training more fun!",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFuRUN7gX3Tj-JbmCHbEeu4SVlGs49-DW4gQ&s",
       "published_at": "2025-02-10T08:30:00Z",
       "action": {
-        "type": "url",
+        "type": "open_game",
         "label": "Đọc thêm",
         "value": "https://example.com/article/foodsafety"
       }

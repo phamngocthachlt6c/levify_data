@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "news": [
+    {
+      "id": "news_001",
+      "title": "O mundo do jogo agora está aberto",
+      "description": "Vamos jogar para deixar seu treinamento mais divertido!",
+      "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFuRUN7gX3Tj-JbmCHbEeu4SVlGs49-DW4gQ&s",
+      "published_at": "2025-02-10T08:30:00Z",
+      "action": {
+        "type": "open_game",
+        "label": "Leia mais",
+        "value": "https://example.com/article/foodsafety"
+      }
+    },
+    {
+      "id": "news_002",
+      "title": "Treine seu inglês",
+      "description": "Vamos praticar suas habilidades de escuta em inglês",
+      "image_url": "https://learnenglishteens.britishcouncil.org/sites/teens/files/styles/section_block_landing_list/public/field/section/image/RS9242_GettyImages-1155064210-hig.jpg?itok=Q4MT0YWJ",
+      "published_at": "2025-02-09T14:00:00Z",
+      "action": {
+        "type": "open_tab",
+        "label": "Leia mais",
+        "value": "1"
+      }
+    }
+  ]
+}

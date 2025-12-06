@@ -20,7 +20,7 @@
       "image_url": "https://learnenglishteens.britishcouncil.org/sites/teens/files/styles/section_block_landing_list/public/field/section/image/RS9242_GettyImages-1155064210-hig.jpg?itok=Q4MT0YWJ",
       "published_at": "2025-02-09T14:00:00Z",
       "action": {
-        "type": "open_tab",
+        "type": "open_lesson_listening_skill",
         "label": "Mehr lesen",
         "value": "1"
       }

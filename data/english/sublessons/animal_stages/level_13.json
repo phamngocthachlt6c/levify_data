@@ -46,8 +46,8 @@
             "start": 27.0,
             "end": 28.0,
             "text": "What did she say?",
-            "options": ["The black goat eat in the partk", "The black goat eats in the partk", "The black horse eats in the partk", "The brown goat eats in the park"],
-            "answer": "The black goat eats in the partk"
+            "options": ["The black goat eat in the park", "The black goat eats in the park", "The black horse eats in the park", "The brown goat eats in the park"],
+            "answer": "The black goat eats in the park"
         },
         {
             "start": 31.0,

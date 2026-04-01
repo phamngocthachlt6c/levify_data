@@ -1,22 +1,27 @@
 [
   {
     "title": "English A1: Course 1",
-    "activity": 33
+    "activity": 33,
+    "course_lesson": "a1_course1"
   },
   {
     "title": "English A1: Course 2",
-    "activity": 31
+    "activity": 31,
+    "course_lesson": "a1_course2"
   },
   {
     "title": "English A1: Course 3",
-    "activity": 34
+    "activity": 34,
+    "course_lesson": "a1_course3"
   },
   {
     "title": "English A1: Course 4",
-    "activity": 31
+    "activity": 31,
+    "course_lesson": "a1_course4"
   },
   {
     "title": "English A2: Course 1",
-    "activity": 34
+    "activity": 34,
+    "course_lesson": "a2_course1"
   }
 ]

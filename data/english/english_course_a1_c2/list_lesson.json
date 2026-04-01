@@ -2,26 +2,31 @@
   {
     "title": "English A1: Course 1",
     "activity": 33,
-    "course_lesson": "a1_course1"
+    "course_lesson": "a1_course1",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnEYZTlWFOsxArzEO1d1ikuU5ojiPddteGow&s"
   },
   {
     "title": "English A1: Course 2",
     "activity": 31,
-    "course_lesson": "a1_course2"
+    "course_lesson": "a1_course2",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnEYZTlWFOsxArzEO1d1ikuU5ojiPddteGow&s"
   },
   {
     "title": "English A1: Course 3",
     "activity": 34,
-    "course_lesson": "a1_course3"
+    "course_lesson": "a1_course3",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnEYZTlWFOsxArzEO1d1ikuU5ojiPddteGow&s"
   },
   {
     "title": "English A1: Course 4",
     "activity": 31,
-    "course_lesson": "a1_course4"
+    "course_lesson": "a1_course4",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnEYZTlWFOsxArzEO1d1ikuU5ojiPddteGow&s"
   },
   {
     "title": "English A2: Course 1",
     "activity": 34,
-    "course_lesson": "a2_course1"
+    "course_lesson": "a2_course1",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnEYZTlWFOsxArzEO1d1ikuU5ojiPddteGow&s"
   }
 ]

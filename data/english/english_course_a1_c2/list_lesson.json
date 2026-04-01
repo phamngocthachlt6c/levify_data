@@ -1,1 +1,22 @@
-
+[
+  {
+    "title": "English A1: Course 1",
+    "activity": 33
+  },
+  {
+    "title": "English A1: Course 2",
+    "activity": 31
+  },
+  {
+    "title": "English A1: Course 3",
+    "activity": 34
+  },
+  {
+    "title": "English A1: Course 4",
+    "activity": 31
+  },
+  {
+    "title": "English A2: Course 1",
+    "activity": 34
+  }
+]

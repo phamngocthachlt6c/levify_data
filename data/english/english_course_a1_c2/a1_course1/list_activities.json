@@ -2,11 +2,13 @@
   {
     "id": 101,
     "title": "The alphabet",
+    "image": "https://png.pngtree.com/png-clipart/20240521/original/pngtree-colourful-abc-letters-png-image_15146844.png",
     "source": "alphabet_a1.json"
   },
   {
     "id": 102,
     "title": "Number",
+    "image": "https://www.mathx.net/image/numbers_1_to_9.jpg",
     "source": "alphabet_a1.json"
   }
 ]

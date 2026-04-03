@@ -4,13 +4,13 @@
     "title": "The alphabet",
     "description": "Alphabet",
     "image": "https://img.freepik.com/premium-vector/vector-letters-abc-doodle-style-hand-drawn-colorful-vector-illustration_921039-3881.jpg?semt=ais_incoming&w=740&q=80",
-    "source": "alphabet_a1.json"
+    "source": "alphabet_a1"
   },
   {
     "id": 102,
     "title": "Number",
     "description": "Numbers & Letters",
     "image": "https://www.mathx.net/image/numbers_1_to_9.jpg",
-    "source": "alphabet_a1.json"
+    "source": "number_a1"
   }
 ]

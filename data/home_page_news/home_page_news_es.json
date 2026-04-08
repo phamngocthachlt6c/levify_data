@@ -3,6 +3,18 @@
   "news": [
     {
       "id": "news_001",
+      "title": "Curso de Inglés de A1 a C2",
+      "description": "Entrena tu inglés desde lo básico hasta lo avanzado",
+      "image_url": "https://englishtalks.ie/wp-content/uploads/2023/01/our-books-series-1.png",
+      "published_at": "2026-05-10T08:30:00Z",
+      "action": {
+        "type": "open_tab",
+        "label": "Leer más",
+        "value": "1"
+      }
+    },
+    {
+      "id": "news_001",
       "title": "El mundo del juego ya está abierto",
       "description": "¡Juguemos para hacer tu entrenamiento más divertido!",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFuRUN7gX3Tj-JbmCHbEeu4SVlGs49-DW4gQ&s",

@@ -3,6 +3,18 @@
   "news": [
     {
       "id": "news_001",
+      "title": "English Course from A1 to C2",
+      "description": "Let's training English from basic to advance",
+      "image_url": "https://englishtalks.ie/wp-content/uploads/2023/01/our-books-series-1.png",
+      "published_at": "2026-05-10T08:30:00Z",
+      "action": {
+        "type": "open_tab",
+        "label": "Đọc thêm",
+        "value": "1"
+      }
+    },
+    {
+      "id": "news_002",
       "title": "Game world is now open",
       "description": "Let's play the game for make your training more fun!",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFuRUN7gX3Tj-JbmCHbEeu4SVlGs49-DW4gQ&s",
@@ -15,7 +27,7 @@
     },
     
     {
-      "id": "news_002",
+      "id": "news_003",
       "title": "Training your English",
       "description": "Let's training your listening English skill",
       "image_url": "https://learnenglishteens.britishcouncil.org/sites/teens/files/styles/section_block_landing_list/public/field/section/image/RS9242_GettyImages-1155064210-hig.jpg?itok=Q4MT0YWJ",

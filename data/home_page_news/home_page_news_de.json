@@ -3,6 +3,18 @@
   "news": [
     {
       "id": "news_001",
+      "title": "Englischkurs von A1 bis C2",
+      "description": "Trainieren Sie Ihr Englisch von den Grundlagen bis zum Fortgeschrittenenniveau",
+      "image_url": "https://englishtalks.ie/wp-content/uploads/2023/01/our-books-series-1.png",
+      "published_at": "2026-05-10T08:30:00Z",
+      "action": {
+        "type": "open_tab",
+        "label": "Mehr lesen",
+        "value": "1"
+      }
+    },
+    {
+      "id": "news_001",
       "title": "Die Spielewelt ist jetzt geöffnet",
       "description": "Lass uns das Spiel spielen, um dein Training unterhaltsamer zu machen!",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFuRUN7gX3Tj-JbmCHbEeu4SVlGs49-DW4gQ&s",

@@ -3,6 +3,18 @@
   "news": [
     {
       "id": "news_001",
+      "title": "Khóa học tiếng Anh từ A1 đến C2",
+      "description": "Luyện tập tiếng Anh từ cơ bản đến nâng cao",
+      "image_url": "https://englishtalks.ie/wp-content/uploads/2023/01/our-books-series-1.png",
+      "published_at": "2026-05-10T08:30:00Z",
+      "action": {
+        "type": "open_tab",
+        "label": "Đọc thêm",
+        "value": "1"
+      }
+    },
+    {
+      "id": "news_002",
       "title": "Thế giới game đã mở",
       "description": "Hãy tham gia trò chơi để làm việc rèn luyện trở nên thú vị hơn!",
       "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFuRUN7gX3Tj-JbmCHbEeu4SVlGs49-DW4gQ&s",
@@ -15,7 +27,7 @@
     },
     
     {
-      "id": "news_002",
+      "id": "news_003",
       "title": "Luyện tập tiếng Anh của bạn",
       "description": "Hãy thử tham gia vào khoá rèn luyện nghe tiếng anh nhé",
       "image_url": "https://learnenglishteens.britishcouncil.org/sites/teens/files/styles/section_block_landing_list/public/field/section/image/RS9242_GettyImages-1155064210-hig.jpg?itok=Q4MT0YWJ",

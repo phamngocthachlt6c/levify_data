@@ -7,6 +7,6 @@
 
 |  |  |  |
 | :---: | :---: | :---: |
-| &nbsp;&nbsp;&nbsp; | ![U](https://png.pngtree.com/png-vector/20240708/ourlarge/pngtree-letter-u-uppercase-3d-art-png-image_12998605.png) | &nbsp;&nbsp;&nbsp; |
+| &nbsp;&nbsp;&nbsp; | ![U](https://cdn-icons-png.flaticon.com/512/9944/9944529.png) | &nbsp;&nbsp;&nbsp; |
 
 [AUDIO:https://archive.org/download/u_20260413/U.mp3] **U**

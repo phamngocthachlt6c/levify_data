@@ -14,7 +14,7 @@
         "https://archive.org/download/g_20260414/G.mp3",
         "https://archive.org/download/o_20260413_20260413_1550/O.mp3"
       ],
-      "correct": 2
+      "correct": 1
     }
   },
   {
@@ -43,7 +43,7 @@
         "M",
         "C"
       ],
-      "correct": 1
+      "correct": 0
     }
   },
   {
@@ -60,7 +60,7 @@
         "https://archive.org/download/p_20260414/P.mp3",
         "https://archive.org/download/q_20260414/q.mp3"
       ],
-      "correct": 3
+      "correct": 2
     }
   },
   {
@@ -89,7 +89,7 @@
         "E",
         "W"
       ],
-      "correct": 2
+      "correct": 1
     }
   }
 ]

@@ -40,5 +40,54 @@
     "description": "Pronouns",
     "image": "https://www.clipartmax.com/png/middle/419-4192618_she-subject-pronoun-they-computer-icons-we-pronoun.png",
     "source": "subject_pronouns"
+  },
+  {
+    "id": 107,
+    "title": "To be",
+    "description": "Subject-verb agreement, Verbs",
+    "image": "https://tienganhnghenoi.vn/wp-content/uploads/2023/02/dong-tu-to-be-2.jpg",
+    "source": "to_be"
+  },
+  {
+    "id": 108,
+    "title": "People",
+    "description": "People, Physical appearance",
+    "image": "https://img.freepik.com/free-photo/people-posing-together-registration-day_23-2149096793.jpg?semt=ais_hybrid&w=740&q=80",
+    "source": "people"
+  },
+  {
+    "id": 109,
+    "title": "Jobs",
+    "description": "Business, Human resources, People",
+    "image": "https://img.freepik.com/free-photo/job-hiring-vacancy-team-interview-career-recruiting_53876-121268.jpg?semt=ais_hybrid&w=740&q=80",
+    "source": "jobs"
+  },
+  {
+    "id": 110,
+    "title": "How to introduce yourself",
+    "description": "Social Encounters, Greetings and introductions",
+    "image": "https://i0.wp.com/eslinfo.com/wp-content/uploads/2024/04/Introducing-Yourself.jpg",
+    "source": "introduce_yourself"
+  },
+  {
+    "id": 111,
+    "title": "How to give basic personal information",
+    "description": "Social Encounters, Greetings and introductions",
+    "image": "https://media.licdn.com/dms/image/v2/C4D12AQHDm_nsxLj_PA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1617182014657?e=2147483647&v=beta&t=FS9z9uQpV96sWi1mORe6q7b7o6BJf_xccfoPdm8f9jA",
+    "source": "give_basic_personal_information"
+  },
+  {
+    "id": 112,
+    "title": "A man reached the top of Mount Everest 22 times",
+    "description": "Lifestyle, People",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Everest_North_Face_toward_Base_Camp_Tibet_Luca_Galuzzi_2006.jpg",
+    "source": "mount_everest_22_times"
+  },
+  {
+    "id": 113,
+    "title": "Times of the day",
+    "description": "Numbers and letters, Time",
+    "image": "https://media.istockphoto.com/id/1095165938/vector/illustration-of-a-clock-with-the-time-of-day-and-am-pm-flat-des.jpg?s=612x612&w=0&k=20&c=uAaYBg9ki7ZEv2qAvt7wfe4mjWSOAMXhpi7V5mgsdhE=",
+    "source": "times_of_the_day"
   }
 ]

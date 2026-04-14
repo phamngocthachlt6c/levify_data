@@ -10,11 +10,11 @@
     "answer_type": "multiple_audio",
     "answer_content": {
       "answers": [
-        "",
-        "",
-        ""
+        "https://archive.org/download/c_20260414/C.mp3",
+        "https://archive.org/download/g_20260414/G.mp",
+        "https://archive.org/download/o_20260413_20260413_1550/O.mp3"
       ],
-      "correct": 1
+      "correct": 2
     }
   },
   {
@@ -22,11 +22,11 @@
     "description": "Listen to the audio clip, then type the answer in the box.",
     "question_type": "audio",
     "question_content": {
-      "source": ""
+      "source": "https://archive.org/download/s_20260414/s.mp3"
     },
     "answer_type": "typing",
     "answer_content": {
-      "correct": ""
+      "correct": "s"
     }
   },
   {
@@ -34,7 +34,7 @@
     "description": "Choose the correct answer.",
     "question_type": "audio",
     "question_content": {
-      "source": ""
+      "source": "https://archive.org/download/h_20260414/H.mp3"
     },
     "answer_type": "multiple_text",
     "answer_content": {
@@ -51,16 +51,16 @@
     "description": "Choose the correct answer.",
     "question_type": "single_picture",
     "question_content": {
-      "image": "https://cdn-icons-png.flaticon.com/512/9942/9942086.png"
+      "image": "https://cdn-icons-png.freepik.com/512/9942/9942104.png"
     },
     "answer_type": "multiple_audio",
     "answer_content": {
       "answers": [
-        "",
-        "",
-        ""
+        "https://archive.org/download/m_20260414/M.mp3",
+        "https://archive.org/download/p_20260414/P.mp3",
+        "https://archive.org/download/q_20260414/q.mp3"
       ],
-      "correct": 1
+      "correct": 3
     }
   },
   {
@@ -68,11 +68,11 @@
     "description": "Listen to the audio clip, then type the answer in the box.",
     "question_type": "audio",
     "question_content": {
-      "source": ""
+      "source": "https://archive.org/download/a_20260412/A.mp3"
     },
     "answer_type": "typing",
     "answer_content": {
-      "correct": ""
+      "correct": "a"
     }
   },
   {
@@ -80,16 +80,16 @@
     "description": "Choose the correct answer.",
     "question_type": "audio",
     "question_content": {
-      "source": ""
+      "source": "https://archive.org/download/e_20260413/E.mp3"
     },
     "answer_type": "multiple_text",
     "answer_content": {
       "answers": [
-        "H",
-        "M",
-        "C"
+        "R",
+        "E",
+        "W"
       ],
-      "correct": 1
+      "correct": 2
     }
   }
 ]

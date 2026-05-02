@@ -1,5 +1,5 @@
-Learn how to spell out these important information:**
-**
+**Learn how to spell out these important information:**
+
 Your name
 Your address
 Your company's name

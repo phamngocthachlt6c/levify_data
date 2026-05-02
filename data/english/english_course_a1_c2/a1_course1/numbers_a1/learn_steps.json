@@ -1,42 +1,22 @@
 [
   {
     "title": "Numbers 1 to 10",
-    "file": "numbers_1_to_10.md"
+    "file": "numbers_1_to_2.md"
   },
   {
-    "title": "Vowels",
-    "file": "vowels2.md"
+    "title": "Numbers 1 to 10",
+    "file": "numbers_3_to_4.md"
   },
   {
-    "title": "Consonants",
-    "file": "consonants1.md"
+    "title": "Numbers 1 to 10",
+    "file": "numbers_5_to_6.md"
   },
   {
-    "title": "Consonants",
-    "file": "consonants2.md"
+    "title": "Numbers 1 to 10",
+    "file": "numbers_7_to_8.md"
   },
   {
-    "title": "Consonants",
-    "file": "consonants3.md"
-  },
-  {
-    "title": "Consonants",
-    "file": "consonants4.md"
-  },
-  {
-    "title": "Consonants",
-    "file": "consonants5.md"
-  },
-  {
-    "title": "Consonants",
-    "file": "consonants6.md"
-  },
-  {
-    "title": "Consonants",
-    "file": "consonants7.md"
-  },
-  {
-    "title": "Spelling out important information",
-    "file": "spellingout.md"
+    "title": "Talking about amounts",
+    "file": "talking_about_amounts.md"
   }
 ]

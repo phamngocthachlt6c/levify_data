@@ -1,6 +1,6 @@
 {
   "entries": [
-    {"rank": 1, "name": "Thach Viprozz", "level": 62, "combatPower": 98500, "experiencePercent": 82, "equipment": {"body": "body_1", "face": "face_1", "hair": "hair_1", "eyes": "eyes_1", "mouth": "mouth_1", "weapon": "weapon_magic_sword", "support": "support_blue_shield"}},
+    {"rank": 1, "name": "Thach Pro", "level": 62, "combatPower": 98500, "experiencePercent": 82, "equipment": {"body": "body_1", "face": "face_1", "hair": "hair_1", "eyes": "eyes_1", "mouth": "mouth_1", "weapon": "weapon_magic_sword", "support": "support_blue_shield"}},
     {"rank": 2, "name": "SakuraNeko", "level": 60, "combatPower": 91240, "experiencePercent": 64, "equipment": {"body": "body_3", "face": "face_2", "hair": "hair_3", "eyes": "eyes_6", "mouth": "mouth_2", "weapon": "weapon_magic_wand", "support": "support_healing_heart"}},
     {"rank": 3, "name": "MinJun_OP", "level": 58, "combatPower": 87600, "experiencePercent": 41, "equipment": {"body": "body_8", "face": "face_5", "hair": "hair_15", "eyes": "eyes_9", "mouth": "mouth_3", "weapon": "weapon_magic_bow", "support": "support_winged_shoes"}},
     {"rank": 4, "name": "AlexNoSleep", "level": 56, "combatPower": 82110, "experiencePercent": 55, "equipment": {"body": "body_4", "face": "face_4", "hair": "hair_5", "eyes": "eyes_4", "mouth": "mouth_4", "weapon": "weapon_shuriken", "support": "support_blood_bag"}},

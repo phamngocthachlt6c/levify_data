@@ -1,3 +1,14 @@
-[
-  {}
-]
+{
+  "entries": [
+    {"rank": 1, "name": "Thach Viprozz", "level": 62, "combatPower": 98500, "experiencePercent": 82, "equipment": {"body": "body_1", "face": "face_1", "hair": "hair_1", "eyes": "eyes_1", "mouth": "mouth_1", "weapon": "weapon_magic_sword", "support": "support_blue_shield"}},
+    {"rank": 2, "name": "SakuraNeko", "level": 60, "combatPower": 91240, "experiencePercent": 64, "equipment": {"body": "body_3", "face": "face_2", "hair": "hair_3", "eyes": "eyes_6", "mouth": "mouth_2", "weapon": "weapon_magic_wand", "support": "support_healing_heart"}},
+    {"rank": 3, "name": "MinJun_OP", "level": 58, "combatPower": 87600, "experiencePercent": 41, "equipment": {"body": "body_8", "face": "face_5", "hair": "hair_15", "eyes": "eyes_9", "mouth": "mouth_3", "weapon": "weapon_magic_bow", "support": "support_winged_shoes"}},
+    {"rank": 4, "name": "AlexNoSleep", "level": 56, "combatPower": 82110, "experiencePercent": 55, "equipment": {"body": "body_4", "face": "face_4", "hair": "hair_5", "eyes": "eyes_4", "mouth": "mouth_4", "weapon": "weapon_shuriken", "support": "support_blood_bag"}},
+    {"rank": 5, "name": "YukiChan88", "level": 54, "combatPower": 77420, "experiencePercent": 26, "equipment": {"body": "body_5", "face": "face_6", "hair": "hair_8", "eyes": "eyes_5", "mouth": "mouth_5", "weapon": "weapon_magic_sword"}},
+    {"rank": 6, "name": "JisooGaming", "level": 52, "combatPower": 72150, "experiencePercent": 73, "equipment": {"body": "body_6", "face": "face_7", "hair": "hair_9", "eyes": "eyes_7", "mouth": "mouth_6", "weapon": "weapon_magic_wand"}},
+    {"rank": 7, "name": "KenjiProMax", "level": 50, "combatPower": 68400, "experiencePercent": 18, "equipment": {"body": "body_7", "face": "face_8", "hair": "hair_11", "eyes": "eyes_8", "mouth": "mouth_7", "weapon": "weapon_magic_bow"}},
+    {"rank": 8, "name": "EmmaKitty", "level": 48, "combatPower": 63980, "experiencePercent": 49, "equipment": {"body": "body_2", "face": "face_9", "hair": "hair_14", "eyes": "eyes_10", "mouth": "mouth_8", "weapon": "weapon_shuriken"}},
+    {"rank": 9, "name": "HaruSensei", "level": 45, "combatPower": 58810, "experiencePercent": 91, "equipment": {"body": "body_3", "face": "face_3", "hair": "hair_3", "eyes": "eyes_3", "mouth": "mouth_9", "support": "support_healing_heart"}},
+    {"rank": 10, "name": "DanielX_07", "level": 43, "combatPower": 53120, "experiencePercent": 35, "equipment": {"body": "body_8", "face": "face_5", "hair": "hair_15", "eyes": "eyes_9", "mouth": "mouth_3", "support": "support_blue_shield"}}
+  ]
+}
